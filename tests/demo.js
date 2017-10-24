@@ -1,4 +1,4 @@
-//module.exports = {
+// module.exports = {
 //  'Demo test Google' : function (browser) {
 //    browser
 //      .url('http://www.google.com')
@@ -10,4 +10,4 @@
 //      .assert.containsText('#main', 'Night Watch')
 //      .end();
 //  }
-//};
+// };
